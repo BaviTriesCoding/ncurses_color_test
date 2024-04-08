@@ -1,0 +1,4 @@
+# ninja log v5
+0	423	1709827310985544294	CMakeFiles/ncurses_color_test.dir/main.cpp.o	e109d3d5e1baee3f
+424	518	1709827311077544298	ncurses_color_test	e71a2cd3799fadb3
+0	32	1709827311297544309	build.ninja	28b10fa650d9267d
